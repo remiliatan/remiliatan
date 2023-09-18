@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Hello, my name Noval Raihan Rifansyah, I have the ability to create or develop an application based on Android, iOS or website since March 2019.
+Hello, my name is Noval Raihan Rifansyah, I have the ability to create or develop Android, iOS or website based applications since March 2019. I have expertise in using React Native, React JS, Laravel, Android Native (Kotlin).
 
 
 ## 🔗 Reach me!
