@@ -1,4 +1,4 @@
-
+[![Noval's github stats](https://github-readme-stats.vercel.app/api?username=remiliatan)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 About Me
 Hello, my name is Noval Raihan Rifansyah, I have the ability to create or develop Android, iOS or website based applications since March 2019. I have expertise in using React Native, React JS, Laravel, Android Native (Kotlin).
 
